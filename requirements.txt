@@ -1,0 +1,17 @@
+langchain
+langchain-community
+langgraph
+
+langchain-groq
+groq
+
+sqlalchemy
+pandas
+psycopg2-binary
+
+streamlit
+altair
+
+python-dotenv
+numpy
+requests

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "bi-agent": {
+      "command": "python",
+      "args": ["C:\\Users\\likith\\Desktop\\BI-Agent\\mcp_minimal.py"]
+    }
+  }
+}

@@ -14,4 +14,3 @@ def build_graph(llm, db, engine):
     g.add_edge("run_sql", "make_viz")
     g.add_edge("make_viz", END)
     return g.compile()
-
